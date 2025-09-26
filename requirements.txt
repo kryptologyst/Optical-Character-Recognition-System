@@ -1,0 +1,30 @@
+# Core OCR Libraries
+pytesseract==0.3.10
+easyocr==1.7.0
+paddlepaddle==2.5.2
+paddleocr==2.7.3
+
+# Image Processing
+opencv-python==4.8.1.78
+Pillow==10.0.1
+numpy==1.24.3
+scikit-image==0.21.0
+
+# Visualization and UI
+matplotlib==3.7.2
+streamlit==1.28.1
+plotly==5.17.0
+
+# Database and Storage
+sqlite3
+pandas==2.0.3
+
+# Additional utilities
+requests==2.31.0
+python-magic==0.4.27
+imutils==0.5.4
+
+# Development and testing
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
